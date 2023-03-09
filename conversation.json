@@ -1,3 +1,10 @@
 [
-  
+  {
+    "role": "user",
+    "content": "5 cộng 5 bằng mấy"
+  },
+  {
+    "role": "assistant",
+    "content": "\n\n5 cộng 5 bằng 10."
+  }
 ]

@@ -2,7 +2,6 @@
 
 const { Configuration, OpenAIApi } = require("openai");
 const fs = require("fs");
-const path = require("path");
 require("dotenv").config();
 
 (async () => {
