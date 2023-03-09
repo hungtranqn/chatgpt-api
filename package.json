@@ -1,0 +1,13 @@
+{
+  "name": "chatgptapi",
+  "version": "1.0.0",
+  "description": "chat gpt api ",
+  "main": "index.js",
+  "author": "hungtd",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
